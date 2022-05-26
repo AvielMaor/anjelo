@@ -1,3 +1,4 @@
+%% hi
 close all;clear all ; clc
 device = serialport("COM1",115200);
 %%
