@@ -51,4 +51,3 @@ minim=min(UD);
 power_of_signal=maxim/minim
 
 clear device
-
